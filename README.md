@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hiya! :wave:
 
 <!--
 **probablymichael/probablymichael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+:pushpin: I'm **michael**! <br>
+:satellite: Welcome to my GitHub Profile, here is some information about me:
+
+- :dart: I'm currently taking <a href="https://www.theodinproject.com/paths/foundations/courses/foundations">The Odin Project Foundations</a> course
+- :mag_right: Beginner HTML and CSS *(Flexbox)*
+- :package: I'm currently learning Javascript *(Beginner/Basics)*
+- :books: High School Student
+- :clipboard: Pronouns: He/Him
+- :mailbox_with_mail: Reach me over at:
+  - Discord: mich#9796
